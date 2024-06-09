@@ -1,0 +1,1 @@
+This code demonstrates the implementation of a K-Nearest Neighbors (KNN) classifier on the Breast Cancer Wisconsin (Diagnostic) dataset. The goal is to classify whether a breast cancer tumor is benign or malignant based on various features of cell nuclei present in the dataset.
